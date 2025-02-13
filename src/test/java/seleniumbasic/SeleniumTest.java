@@ -33,6 +33,9 @@ public class SeleniumTest {
 		}
 		//4.close browser
 		driver.close();  
+		driver.quit();
 	}
+	
+	//Git modified 
 
 }
